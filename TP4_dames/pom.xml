@@ -35,6 +35,7 @@
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <sonar.coverage.jacoco.xmlReportPaths>target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
         <sonar.java.binaries>target/classes</sonar.java.binaries>
+        <sonar.projectKey>nekouki_tp4-dames-ben_wahida_ghanmi_kouki</sonar.projectKey>
     </properties>
     <build>
         <plugins>
